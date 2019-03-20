@@ -64,7 +64,7 @@ export default class WearAHat {
                     break;
                 }
                 default: {
-                    HatDatabase = require('../public/1166467957212054271_space_helmets.json');
+                    HatDatabase = require('../public/1158964902488965895.json');
                     break;
                 }
             }
