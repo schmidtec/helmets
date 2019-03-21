@@ -71,9 +71,9 @@
         "displayName": "War Robot",
         "resourceId": "artifact:1166573961752871901",
         "scale": {
-            "x": 2.5,
-            "y": 2.5,
-            "z": 2.5
+            "x": 20.5,
+            "y": 20.5,
+            "z": 20.5
         },
         "position": {
             "x": 0,
