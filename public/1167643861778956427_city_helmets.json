@@ -13,6 +13,20 @@
             "z": 0
         }
     },
+    "d20": {
+        "displayName": "D20",
+        "resourceId": "artifact:1158970836825145646",
+        "scale": {
+            "x": 0.01,
+            "y": 0.01,
+            "z": 0.01
+        },
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
     "warrobot": {
         "displayName": "War Robot",
         "resourceId": "artifact:1166573961752871901",
