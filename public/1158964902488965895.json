@@ -83,11 +83,6 @@
 	},
 	"movedown": {
 		"displayName": "! Move Down 0.01",
-		"resourceId": "artifact:1150513195203429312",
-		"rotation": {
-			"x": 0,
-			"y": 0,
-			"z": 180
-		}
+		"resourceId": "artifact:1150513195203429312"
 	}
 }
