@@ -3,9 +3,9 @@
         "displayName": "D20",
         "resourceId": "artifact:1158970836825145646",
         "scale": {
-            "x": 0.1,
-            "y": 0.1,
-            "z": 0.1
+            "x": 0.01,
+            "y": 0.01,
+            "z": 0.01
         }
     },
     "captainfemale": {
