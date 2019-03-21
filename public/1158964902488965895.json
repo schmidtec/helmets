@@ -1,7 +1,12 @@
 {
     "bigalien": {
         "displayName": "D20",
-        "resourceId": "artifact:1158970836825145646"
+        "resourceId": "artifact:1158970836825145646",
+        "scale": {
+            "x": 0.1,
+            "y": 0.1,
+            "z": 0.1
+        },
     },
     "captainfemale": {
         "displayName": "Captain Female",
