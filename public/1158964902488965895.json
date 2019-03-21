@@ -1,0 +1,91 @@
+{
+    "bigalien": {
+        "displayName": "d20",
+        "resourceId": "artifact:1158970836825145646"
+    },
+    "captainfemale": {
+        "displayName": "Captain Female",
+        "resourceId": "artifact:1166596354386952293"
+    },
+    "captainmale": {
+        "displayName": "Captain Male",
+        "resourceId": "artifact:1166596359604666470"
+    },
+    "spacehelmet": {
+        "displayName": "Space Helmet",
+        "resourceId": "artifact:1166530075533771277"
+    },
+    "hunterfemale": {
+        "displayName": "Hunter Female",
+        "resourceId": "artifact:1166573948893135616"
+    },
+    "spacehelmet": {
+        "displayName": "Space Helmet",
+        "resourceId": "artifact:1166530075533771277"
+    },
+    "junkerfemale": {
+        "displayName": "Junker Female",
+        "resourceId": "artifact:1166550829503611485"
+    },
+    "junkermale": {
+        "displayName": "Junker Male",
+        "resourceId": "artifact:1166550824378171996"
+    },
+    "medicmale": {
+        "displayName": "Medic Male",
+        "resourceId": "artifact:1166577920605421737"
+    },
+    "psionic": {
+        "displayName": "Psionic",
+        "resourceId": "artifact:1166573953859191673"
+    },
+    "spacehelmet": {
+        "displayName": "Space Helmet",
+        "resourceId": "artifact:1166530075533771277",
+        "scale": {
+            "x": 1.3,
+            "y": 1.3,
+            "z": 1.3
+        },
+        "position": {
+            "x": 0,
+            "y": -0.04,
+            "z": 0
+        }
+    },
+    "spacesoldiermale": {
+        "displayName": "Space Soldier Male",
+        "resourceId": "artifact:1166469656223940751"
+    },
+    "warrobot": {
+        "displayName": "War Robot",
+        "resourceId": "artifact:1166573961752871901",
+        "scale": {
+            "x": 2.5,
+            "y": 2.5,
+            "z": 2.5
+        },
+        "position": {
+            "x": 0,
+            "y": 0.13,
+            "z": 0
+        }
+    },
+    "clear": {
+        "displayName": "! Clear",
+        "resourceId": "artifact:1150513214480450500"
+    },
+    "moveup": {
+        "displayName": "! Move Up 0.01",
+        "resourceId": "artifact:1150513195203429312"
+    },
+    "movedown": {
+        "displayName": "! Move Down 0.01",
+        "resourceId": "artifact:1150513195203429312",
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 180
+        }
+    }
+}
